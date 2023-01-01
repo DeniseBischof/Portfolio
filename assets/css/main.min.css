@@ -49,7 +49,8 @@ a:hover{
 	padding:.5rem
 }
 .layout .card{
-	background:linear-gradient(145deg,hsla(0,0%,45%,.15) 15%,#2b2d2f 80%);
+/*	background:linear-gradient(145deg,hsla(0,0%,45%,.15) 15%,#2b2d2f 80%); */
+    background:#2b2d2f;
 /*	border-radius:2rem; */
 	margin:3rem 0;
 	padding:1rem 2rem
