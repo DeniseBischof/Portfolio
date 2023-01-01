@@ -69,8 +69,10 @@ projects_title: Current Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
+show_os_projects: false
 
 show_finished_projects_card: true
+
 show_finished_projects: true
 # projects_title: The will be displayed as the title of your projects
 finished_projects_title: Finished Projects
