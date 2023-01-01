@@ -6,31 +6,34 @@
 #   weight: 5
 
 - name: Git
-  weight: 5
-
-- name: Bash
   weight: 3
 
 - name: Scrum
-  weight: 3
+  weight: 4
 
-- name: Travis CI
-  weight: 1
+- name: Premiere
+  weight: 4
 
-- name: Jenkins
-  weight: 1
+- name: Blender
+  weight: 4
 
-- name: Chrome DevTools
-  weight: 2
+- name: Unity
+  weight: 5
 
 - name: npm
   weight: 2
 
-- name: gulp
+- name: Unreal
   weight: 4
 
-- name: VS Code
+- name: Photoshop
   weight: 3
 
-- name: Postman
-  weight: 4
+- name: After Effects
+  weight: 3
+
+- name: Nuke
+  weight: 2
+
+- name: Houdini FX
+  weight: 2

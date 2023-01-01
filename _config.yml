@@ -14,7 +14,7 @@ baseurl: "/Portfolio"
 username: Denise Bischof
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Portfolio
+typing_text: Softwaredeveloper
 # email: Your E-Mail address for the email button.
 email: denisebischof@web.de
 # For every social button you want to display, set your username or userid
@@ -23,7 +23,7 @@ email: denisebischof@web.de
 github_username: denisebischof
 #codepen_username: exampleUser
 #dev_username: exampleUser
-linkedin_username: exampleUser
+linkedin_username: denise-bischof-4abaaab1
 #twitter_username: exampleUser
 
 # ABOUT ME SECTION
@@ -53,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://www.dropbox.com/s/pdrx6v4wqog125x/Denise%20Bischof_CV.pdf?dl=0
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -69,7 +69,7 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
