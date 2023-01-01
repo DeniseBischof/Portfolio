@@ -14,7 +14,7 @@ baseurl: "/Portfolio"
 username: Denise Bischof
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: welcome to my Portfolio
+typing_text: welcome to my Portfolio.
 # email: Your E-Mail address for the email button.
 email: denisebischof@web.de
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,15 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am a software developer and a M.A. student in “Creative Technologies” at the Film University Babelsberg. I mainly work as a software developer, but sometimes also hold Unity workshops. My XR applications were exhibited in the Konzerthaus, the Futurium in Berlin as well as the conference for culture and computer science, the AfriCHI and 48 h Neukölln.
+about_me_description: 
+
+👋 Hi, my name is Denise Bischof.
+
+I am a software developer and a M.A. student in “Creative Technologies” at the Film University Babelsberg.
+
+👨‍💻 I mainly work as a software developer, but sometimes also hold Unity workshops.
+
+Below you can find some of my projects, which were exhibited in the Konzerthaus, the Futurium in Berlin as well as the KUI, the AfriCHI and 48 h Neukölln.
 
 # SKILLS SECTION
 # show_skills_card:
