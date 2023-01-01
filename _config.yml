@@ -71,7 +71,7 @@ projects_title: Current Projects
 # > setting this to false, will omit your public projects on github
 show_finished_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Finished Projects
+finished_projects_title: Finished Projects
 
 show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
