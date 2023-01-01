@@ -17,6 +17,12 @@
 #     - tag: Rails
 #   timeline-side: right
 
+- title: Film University Babelsberg Konrad Wolf
+  title-url: https://www.filmuniversitaet.de/studium/studienangebot/masterstudiengaenge/creative-technologies
+  date: 2019 - 2023
+  subtitle: M.A. Creative Technologies
+  timeline-side: left
+
 - title: Republic M!
   title-url: https://republic-m.com/
   date: Apr 2020 - Dec 2022
@@ -26,12 +32,6 @@
     - tag: CSS
     - tag: Zoom
   timeline-side: right
-
-- title: Film University Babelsberg Konrad Wolf
-  title-url: https://www.filmuniversitaet.de/studium/studienangebot/masterstudiengaenge/creative-technologies
-  date: 2019 - 2023
-  subtitle: M.A. Creative Technologies
-  timeline-side: left
 
 - title: Research Group INKA
   title-url: https://fki.htw-berlin.de/inka/
