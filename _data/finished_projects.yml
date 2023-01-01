@@ -13,20 +13,28 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-
 - name: REMNANTS - KIND ACTS OF CRUELTY
   descr: "The project consist of a more abstract installation visualizing microaggressions and an the educational website kindactsofcruelty.com. The goal is to bring attention to microaggressions, helping to understand why certain phrases might be problematic, what effects microaggressions cause, and how to act when they happen."
   demo: https://kindactsofcruelty.com/
   tags:
-    - tag: webdevelopment
-    - tag: exhibition
+    - tag: MongoDB
+    - tag: Express
+    - tag: AngularJS
+    - tag: Node
 
 - name: Filmmuseum AR
-  descr: "You can also set a project without demo link and no tags"
-  
-  - name: Future Cat
+  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+  demo: https://example.com/
+  tags:
+    - tag: Python
+    - tag: Django
+
+- name: Future Cat
   descr: "This game was created for the opening of the Futurium in Berlin. It's' a multiplayer AR Game, where the flying cat is being controlled by the intensity f the crowds clapping."
   demo: https://www.facebook.com/futuriumD/posts/1038211829705525/
   tags:
     - tag: Unity
     - tag: AR
+  
+- name: project Z
+  descr: "You can also set a project without demo link and no tags"
