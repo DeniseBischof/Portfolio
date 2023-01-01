@@ -28,8 +28,8 @@ a:hover{
 	color:#fff
 }
 .highlight-title{
-	color:#710193;
-	text-shadow:.25rem .25rem .25rem #b65fcf
+	color:#b65fcf;
+	text-shadow:.25rem .25rem .25rem #710193
 }
 .highlight-link{
 	box-shadow:inset 0 -.125rem 0 #b65fcf;
@@ -286,13 +286,13 @@ a:hover{
 	transition:opacity .5s
 }
 #skills div[skill-type=language]{
-	color:#710193
-}
-#skills div[skill-type=framework]{
 	color:#a45ee5
 }
-#skills div[skill-type=tool]{
+#skills div[skill-type=framework]{
 	color:#be93d4
+}
+#skills div[skill-type=tool]{
+	color:#710193
 }
 #skills div[skill-weight="1"]{
 	font-size:.75rem;

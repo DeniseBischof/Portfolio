@@ -14,7 +14,7 @@ baseurl: "/Portfolio"
 username: Denise Bischof
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Softwaredeveloper
+typing_text: welcome to my Portfolio
 # email: Your E-Mail address for the email button.
 email: denisebischof@web.de
 # For every social button you want to display, set your username or userid
@@ -65,10 +65,14 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Projects
+projects_title: Current Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
+show_finished_projects: true
+# projects_title: The will be displayed as the title of your projects
+projects_title: Finished Projects
+
 show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
