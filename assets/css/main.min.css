@@ -21,7 +21,7 @@ p{
 	word-spacing:.1rem
 }
 a{
-	color:#ff073a;
+	color:#b65fcf;
 	text-decoration:none
 }
 a:hover{
@@ -29,18 +29,18 @@ a:hover{
 }
 .highlight-title{
 	color:#b65fcf;
-	text-shadow:.25rem .25rem .25rem #ff073a
+	text-shadow:.25rem .25rem .25rem #b65fcf
 }
 .highlight-link{
-	box-shadow:inset 0 -.125rem 0 #ff073a;
+	box-shadow:inset 0 -.125rem 0 #b65fcf;
 	box-sizing:border-box;
-	color:#ff073a;
+	color:#b65fcf;
 	display:inline-block;
 	padding:.125rem;
 	transition:all .2s ease-in-out
 }
 .highlight-link:hover{
-	box-shadow:inset 0 -2rem 0 0 #ff073a;
+	box-shadow:inset 0 -2rem 0 0 #b65fcf;
 	color:#fff
 }
 .layout{
@@ -112,14 +112,14 @@ a:hover{
 }
 #preloader .load :nth-child(2){
 	animation-delay:-1s;
-	background:#ff073a
+	background:#b65fcf
 }
 #preloader .load :nth-child(3){
 	animation-delay:-.5s;
 	background:#fff
 }
 #preloader .load :last-child{
-	background:#ff073a
+	background:#b65fcf
 }
 @keyframes a{
 	0%,to{
@@ -143,7 +143,7 @@ a:hover{
 	text-align:center
 }
 .footer a{
-	color:#ff073a
+	color:#b65fcf
 }
 #landing,.footer a:focus,.footer a:hover{
 	background:#2b2d2f;
@@ -335,7 +335,7 @@ a:hover{
 	padding:1rem 0
 }
 .timeline-wrapper .hexagon{
-	background:#ff073a;
+	background:#b65fcf;
 	height:.5rem;
 	left:0;
 	margin-left:auto;
@@ -355,11 +355,11 @@ a:hover{
 	position:absolute
 }
 .timeline-wrapper .hexagon:before{
-	border-bottom:.25rem solid #ff073a;
+	border-bottom:.25rem solid #b65fcf;
 	top:-.25rem
 }
 .timeline-wrapper .hexagon:after{
-	border-top:.25rem solid #ff073a;
+	border-top:.25rem solid #b65fcf;
 	bottom:-.25rem
 }
 .timeline-wrapper .flag-wrapper{
@@ -378,7 +378,7 @@ a:hover{
 }
 .timeline-wrapper .flag span:after{
 	content:"≫";
-	color:#ff073a;
+	color:#b65fcf;
 	position:absolute;
 	opacity:0;
 	right:-1rem;
@@ -460,7 +460,7 @@ a:hover{
 	font-size:1.5rem
 }
 .contact-icons .social-link .social-svg{
-	fill:#ff073a
+	fill:#b65fcf
 }
 .contact-icons .social-link:hover{
 	cursor:pointer;
@@ -530,7 +530,7 @@ a:hover{
 		letter-spacing:.25rem
 }
 	#skills input[type=radio]:checked+.filter-button{
-		color:#ff073a;
+		color:#b65fcf;
 		font-weight:600;
 		background:linear-gradient(150deg,hsla(0,0%,8%,.4) 10%,hsla(0,0%,45%,.15) 80%);
 		box-shadow:1px 1px 2px 0 hsla(0,0%,82%,.4),-1px -1px 2px rgba(0,0,0,.4),inset 3px 3px 2px 0 rgba(0,0,0,.4),inset -1px -2px 2px hsla(0,0%,82%,.4)
