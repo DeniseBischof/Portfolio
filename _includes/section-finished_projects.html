@@ -2,7 +2,7 @@
   <h1 class="title"><span>{{site.finished_projects_title}}</span></h1>
   <div class="projects-wrapper">
     {% for project in site.data.finished_projects %}
-      <div class="project neumorphism-card" data-aos="zoom-in-down" style="background-image: url({project.img}); height: 400px; width: 400px;">
+      <div class="project neumorphism-card" data-aos="zoom-in-down" style="background-image: url({{project.img}}); height: 300px; width: 500px;">
         <div class="name-link-wrapper">
           <h3>{{project.name}}</h3>
         </div>
