@@ -14,11 +14,7 @@
 #     - tag: Node
 
 - name: REMNANTS - KIND ACTS OF CRUELTY
-  descr: "The project consist of a more abstract installation visualizing microaggressions and an the educational website kindactsofcruelty.com. The goal is to bring attention to microaggressions, helping to understand why certain phrases might be problematic, what effects microaggressions cause, and how to act when they happen." <style>
-p {
-  background-image: url('https://scontent-ber1-1.xx.fbcdn.net/v/t1.6435-9/69454707_1038208499705858_3131636491474698240_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=730e14&_nc_ohc=YoSfGE7giLsAX84G0I6&_nc_ht=scontent-ber1-1.xx&oh=00_AfAAsYKseB3hyxcaJBP_8Bkmo2XIccwcRtpCU_UBH_xbEw&oe=63D99F8B');
-}
-</style>
+  descr: "The project consist of a more abstract installation visualizing microaggressions and an the educational website kindactsofcruelty.com. The goal is to bring attention to microaggressions, helping to understand why certain phrases might be problematic, what effects microaggressions cause, and how to act when they happen."
   demo: https://kindactsofcruelty.com/
   tags:
     - tag: MongoDB
