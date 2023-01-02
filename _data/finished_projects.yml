@@ -16,7 +16,7 @@
 - name: REMNANTS - KIND ACTS OF CRUELTY
   descr: "The project consist of a more abstract installation visualizing microaggressions and an the educational website kindactsofcruelty.com. The goal is to bring attention to microaggressions, helping to understand why certain phrases might be problematic, what effects microaggressions cause, and how to act when they happen."
   demo: https://kindactsofcruelty.com/
-  img: https://github.com/DeniseBischof/Portfolio/blob/main/docs/screenshot-thumbnail-250.png?raw=true
+  img: https://raw.githubusercontent.com/DeniseBischof/Portfolio/main/docs/Remants_Screenshot.png
   tags:
     - tag: Exhibition
 
