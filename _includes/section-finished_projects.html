@@ -1,12 +1,12 @@
 {% if site.show_finished_projects %}
   <h1 class="title"><span>{{site.finished_projects_title}}</span></h1>
-  <div class="projects-wrapper">
+  <div class="projects-wrapper" style="background-image: url({project.img})">
     {% for project in site.data.finished_projects %}
       <div class="project neumorphism-card" data-aos="zoom-in-down">
         <div class="name-link-wrapper">
           <h3>{{project.name}}</h3>
         </div>
-        <p class="project-desc">{{project.descr}} background-image: url({project.img});</p>
+        <p class="project-desc">{{project.descr}}</p>
         {% if project.demo %}
           <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">
             Website
