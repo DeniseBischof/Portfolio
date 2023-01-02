@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hi, my name is Denise Bischof. <br>I am a software developer and a M.A. student in “Creative Technologies” at the Film University Babelsberg. <br>I mainly work as a software developer, but sometimes also hold Unity workshops. <br>Below you can find some of my projects, which were exhibited in the Konzerthaus, the Futurium in Berlin as well as the KUI, the AfriCHI and 48 h Neukölln.
+about_me_description: Hi, my name is Denise Bischof. <br><br>I am a software developer and a M.A. student in “Creative Technologies” at the Film University Babelsberg. <br><br>I mainly work as a developer, but sometimes also hold Unity workshops. <br><br>Below you can find some of my projects, which were exhibited in the Konzerthaus, the Futurium in Berlin as well as the KUI, the AfriCHI and 48 h Neukölln.
 
 # SKILLS SECTION
 # show_skills_card:
