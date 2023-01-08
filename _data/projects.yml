@@ -13,21 +13,21 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Masterthesis 
-  descr: "Algorithmic bias, the unequal treatment of individuals or groups by automated decision-making systems, has been a growing concern in recent years. In my thesis, I propose the use of audit studies as an experimental method for assessing algorithmic bias. To examine this issue, we conducted an audit study using TikTok to assess the algorithmic bias of the platform against people of colour. Audit studies are a type of experimental method that involve creating controlled conditions and comparing the outcomes that are produced for different groups. In this study, we used short videogame trailers created in the Unreal Engine as the content for our videos."
+- name: Masterthesis - Using an audit study to assess algorithmic bias
+  descr: "Algorithmic bias, the unequal treatment of individuals or groups by automated decision-making systems, has been a growing concern in recent years. To examine this issue, we conducted an audit study using TikTok to assess the algorithmic bias of the platform against people of colour."
   demo: https://denisebischof.github.io/Masterthesis_Project/
   tags:
     - tag: Unreal
     - tag: MetaHuman
     - tag: Virtual Production
-    - tag: Machine Learning
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Re:mix – Jugend singt und mischt sich ein
+  descr: "Ae are developing a workshop for children's choirs for the Re:mix project. The included materials make it possible to teach children's rights in a playful way and by means of augmented reality."
+  demo: https://medialepfade.org/projekt/remix-jugend-singt-und-mischt-sich-ein/
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: Unity
+    - tag: Augmented Reality
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Shroomsailors of Porto Bello
+  descr: "A short action RPG that is being developed with the gamedesigner Nils Sommer. You can try the tech-demo using the link below."
+  demo: https://denisebischof.itch.io/shroomsailors-tech-demo

@@ -19,6 +19,7 @@
   tags:
     - tag: Unity
     - tag: Vuforia
+    - tag: Augmented Reality
 
 - name: REMNANTS - KIND ACTS OF CRUELTY
   descr: "The project consist of a more abstract installation visualizing microaggressions and an the educational website kindactsofcruelty.com. The goal is to bring attention to microaggressions, helping to understand why certain phrases might be problematic, what effects microaggressions cause, and how to act when they happen."
@@ -28,8 +29,9 @@
     - tag: Exhibition
     - tag: Webdevelopment
     
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: Interactive recipe book - enhance your traditional recipe book: showing cultural heritage through cooking
+  descr: "Scientific publication on the use of augmented reality to preserve cultural heritage. This publication was published at the AfriChi 2018."
+  demo: https://dl.acm.org/doi/abs/10.1145/3283458.3283513
     
 - name: Future Cat
   descr: "This game was created for the opening of the Futurium in Berlin. It's' a multiplayer AR Game, where the flying cat is being controlled by the intensity of the crowds clapping."
