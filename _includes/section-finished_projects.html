@@ -1,7 +1,7 @@
 {% if site.show_finished_projects %}
   <h1 class="title"><span>{{site.finished_projects_title}}</span></h1>
   <div class="projects-wrapper">
-       {% for project in site.data.projects %}
+       {% for project in site.data.finished_projects %}
       <div class="project neumorphism-card" data-aos="zoom-in-down">
         <div class="name-link-wrapper">
           <h3>{{project.name}}</h3>
