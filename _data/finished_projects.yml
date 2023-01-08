@@ -29,7 +29,7 @@
     - tag: Exhibition
     - tag: Webdevelopment
     
-- name: Interactive recipe book - enhance your traditional recipe book: showing cultural heritage through cooking
+- name: Interactive recipe book - showing cultural heritage through cooking
   descr: "Scientific publication on the use of augmented reality to preserve cultural heritage. This publication was published at the AfriChi 2018."
   demo: https://dl.acm.org/doi/abs/10.1145/3283458.3283513
     
